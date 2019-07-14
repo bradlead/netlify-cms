@@ -1,21 +1,20 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Local food prepared by Edinburgh Chefs
+image: /img/med-food-hero.jpg
+heading: 'Local, Quality and Environmentally Conscious.'
+subheading: Meal kits that don't cost the earth.
 mainpitch:
-  title: Why Kaldi
+  title: Why Eden?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Eden is the meal kit for everyone who wants to save time on cooking meals
+    without it costing the earth.  If you believe in good quality ingredients,
+    great tasting food without the packaging and distribution impacts then this
+    is the solution for you. Food shouldn't just taste good it should do good
+    too.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Freshly prepared in Edinburgh on a small scale with foods already within the
+  local ecosystem. No added delivery miles.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -68,3 +67,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
