@@ -1,8 +1,7 @@
 ---
 templateKey: index-page
 title: Local food prepared by Edinburgh Chefs
-image: >-
-  /img/54088690-organic-food-background-studio-photo-of-different-fruits-and-vegetables-on-white-wooden-table-high-r.jpg
+image: /img/med-food-hero.jpg
 heading: 'Local, Quality and Environmentally Conscious.'
 subheading: Meal kits that don't cost the earth.
 mainpitch:
