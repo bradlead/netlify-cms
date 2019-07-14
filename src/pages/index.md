@@ -1,8 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+title: Local food prepared by Edinburgh Chefs
+image: >-
+  /img/food-background-food-concept-with-various-tasty-fresh-ingredients-cooking-italian-food-ingredients-view-from-with-copy-space_1220-1491.jpg
+heading: 'Local, Quality and Environmentally Conscious.'
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
@@ -68,3 +69,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
