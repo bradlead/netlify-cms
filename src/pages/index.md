@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Local food prepared by Edinburgh Chefs
 image: >-
-  /img/food-background-food-concept-with-various-tasty-fresh-ingredients-cooking-italian-food-ingredients-view-from-with-copy-space_1220-1491.jpg
+  /img/54088690-organic-food-background-studio-photo-of-different-fruits-and-vegetables-on-white-wooden-table-high-r.jpg
 heading: 'Local, Quality and Environmentally Conscious.'
 subheading: Meal kits that don't cost the earth.
 mainpitch:
